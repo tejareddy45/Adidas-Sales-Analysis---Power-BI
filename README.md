@@ -34,8 +34,7 @@ The Adidas Store owner wants to create an annual sales report for 2022. So that,
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
-!(https://github.com/tejareddygandham-DA/Adidas-sales-Analysis---Powewr-BI/blob/main/Adidas%20Sales%20Dashbord.png)
+![Screenshot (495)](https://github.com/tejareddygandham-DA/Adidas-sales-Analysis---Powewr-BI/blob/main/Adidas%20Sales%20Dashbord.png)
 
 ## Project Insight
 - Women (65%) buy more Adidas products than men.
